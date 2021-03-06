@@ -1,2 +1,2 @@
 # daydayrun
-<p style="color:red">test</p>
+<p style="color:red;">test</p>
